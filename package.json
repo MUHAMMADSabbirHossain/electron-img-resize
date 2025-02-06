@@ -4,6 +4,7 @@
   "description": "Build a Electron.js Image Resizer Desktop App in Node.js Using Toastify Library Full Project | Coding Shiksha",
   "main": "index.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
