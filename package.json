@@ -1,0 +1,11 @@
+{
+  "name": "electron-img-resize",
+  "version": "1.0.0",
+  "description": "Build a Electron.js Image Resizer Desktop App in Node.js Using Toastify Library Full Project | Coding Shiksha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
