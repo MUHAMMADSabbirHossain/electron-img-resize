@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPC Main Programming Project</title>
+</head>
+
+<body>
+
+    <!-- Form -->
+    <form>
+        <div>
+            <span>Select an Image to Resize</span>
+            <input type="file" name="" id="img">
+        </div>
+        <div>
+            <label for="">Width</label>
+            <input type="number" name="width" id="width" placeholder="Width">
+        </div>
+        <div>
+            <label for="">Height</label>
+            <input type="number" name="height" id="height" placeholder="Height">
+        </div>
+
+        <!-- Button -->
+        <button type="submit">Resize Image</button>
+    </form>
+
+    <p><strong>File: </strong><span id="filename"></span></p>
+    <p><strong>Output: </strong><span id="output-path"></span></p>
+</body>
+<script src="js/renderer.js"></script>
+
+</html>
