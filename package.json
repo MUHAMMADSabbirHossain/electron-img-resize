@@ -10,5 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "electron": "^34.1.0"
+  },
+  "dependencies": {
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
   }
 }
